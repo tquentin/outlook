@@ -1,5 +1,6 @@
 # outlook
-Outlook related VBA
+Outlook related. 
+e.g. VBA, Regkeys
 
 Application:
 	Under "Project" -> "Microsoft Outlook Objects" -> "ThisOutlookSession"
